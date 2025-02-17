@@ -34,7 +34,7 @@ function supprimerLigne(bouton, titre) {
     .then(() => {
         let ligne = bouton.parentNode.parentNode;
         ligne.parentNode.removeChild(ligne);
-        chargerFilms(); // Recharger les films pour mettre à jour le tri
+        chargerFilms();
     });
 }
 
