@@ -1,0 +1,98 @@
+[
+  {
+    "titre": "Interstellar",
+    "oscars": 1,
+    "imdbRank": "8.7",
+    "annee": 2014,
+    "duree": 169,
+    "score": 912
+  },
+  {
+    "titre": "Titanic",
+    "oscars": 11,
+    "imdbRank": "7.9",
+    "annee": 1997,
+    "duree": 194,
+    "score": 980
+  },
+  {
+    "titre": "Ben-Hur",
+    "oscars": 11,
+    "imdbRank": "8.1",
+    "annee": 1959,
+    "duree": 212,
+    "score": 880
+  },
+  {
+    "titre": "Lawrence of Arabia",
+    "oscars": 7,
+    "imdbRank": "8.3",
+    "annee": 1962,
+    "duree": 227,
+    "score": 788
+  },
+  {
+    "titre": "The Godfather Part II",
+    "oscars": 6,
+    "imdbRank": "9.0",
+    "annee": 1974,
+    "duree": 202,
+    "score": 884
+  },
+  {
+    "titre": "The Shawshank Redemption",
+    "oscars": 0,
+    "imdbRank": "9.3",
+    "annee": 1994,
+    "duree": 142,
+    "score": 942
+  },
+  {
+    "titre": "12 Angry Men",
+    "oscars": 0,
+    "imdbRank": "9.0",
+    "annee": 1957,
+    "duree": 96,
+    "score": 942
+  },
+  {
+    "titre": "West Side Story",
+    "oscars": 10,
+    "imdbRank": "7.6",
+    "annee": 1961,
+    "duree": 153,
+    "score": 952
+  },
+  {
+    "titre": "Saving Private Ryan",
+    "oscars": 5,
+    "imdbRank": "8.6",
+    "annee": 1998,
+    "duree": 169,
+    "score": 954
+  },
+  {
+    "titre": "Modern Times",
+    "oscars": 0,
+    "imdbRank": "8.5",
+    "annee": 1936,
+    "duree": 87,
+    "score": 888
+  },
+  {
+    "titre": "The Wizard of Oz",
+    "oscars": 2,
+    "imdbRank": "8.1",
+    "annee": 1939,
+    "duree": 102,
+    "score": 880
+  },
+  {
+    "titre": "Spider-Man",
+    "oscars": 0,
+    "imdbRank": "7.4",
+    "annee": 2002,
+    "duree": 121,
+    "score": 886
+  }
+]
