@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Liste de films à voir</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>📽️ Liste des films à voir</h1>
+
+    <div>
+        <label>Titre : <input type="text" id="recherche" placeholder="Rechercher un film..." required></label>
+        <button id="boutonRecherche" onclick="rechercherFilms()">Ajouter 🎬</button>
+        <div id="resultatsRecherche"></div>
+    </div>
+
+    <table id="tableFilms">
+        <thead>
+            <tr>
+                <th>Titre</th>
+                <th>Oscars</th>
+                <th>IMDB Rank</th>
+                <th>Année</th>
+                <th>Durée</th>
+                <th>Score</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+
+    <script src="script.js"></script>
+</body>
+</html>
